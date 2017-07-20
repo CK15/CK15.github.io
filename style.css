@@ -1,16 +1,20 @@
 body {
   background-color: #e60000
-}
+  }
 
 h1 {
   font-family: Georgia, serif;
   font-size: 2em;
   color: white;
   text-align: center;
-{
+  }
 
 p {
   font-family: Helvetica, sans-serif;
   }
 
-  
+img {
+  align: center;
+  }
+
+
