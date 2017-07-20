@@ -1,14 +1,14 @@
-body (
+body {
   backround-color: #cc0000
-)
+}
 
-h1 (
+h1 {
   font-family: Georgia, serif;
   font-size: 2em;
   color: white;
   text-align: center;
-(
+{
 
-p (
+p {
   font-family: Helvetica, sans-serif;
-)
+  }
